@@ -1,0 +1,26 @@
+{
+    "language": "en",
+    "messages": [
+        {
+            "id": "i18n",
+            "message": "i18n",
+            "translation": "i18n"
+        },
+        {
+            "id": "Hello: {Name}",
+            "message": "Hello: {Name}",
+            "translation": "Hello: {Name}",
+            "translatorComment": "Copied from source.",
+            "placeholders": [
+                {
+                    "id": "Name",
+                    "string": "%[1]s",
+                    "type": "string",
+                    "underlyingType": "string",
+                    "argNum": 1,
+                    "expr": "name"
+                }
+            ]
+        }
+    ]
+}

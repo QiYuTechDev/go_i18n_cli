@@ -1,0 +1,25 @@
+{
+    "language": "zh",
+    "messages": [
+        {
+            "id": "i18n",
+            "message": "i18n",
+            "translation": "国际化"
+        },
+        {
+            "id": "Hello: {Name}",
+            "message": "Hello: {Name}",
+            "translation": "您好: {Name}",
+            "placeholders": [
+                {
+                    "id": "Name",
+                    "string": "%[1]s",
+                    "type": "string",
+                    "underlyingType": "string",
+                    "argNum": 1,
+                    "expr": "name"
+                }
+            ]
+        }
+    ]
+}
